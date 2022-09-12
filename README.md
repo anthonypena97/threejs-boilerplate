@@ -1,4 +1,4 @@
-# BRASIL FUERTE
+# Three.js Boilerplate
 
 ### Interactive 3D Model Web Page Renderer Boilerplate using Three.js
 
@@ -7,7 +7,7 @@
 [![brasil-fuerte-demo](https://user-images.githubusercontent.com/79285555/148021888-5008bd57-3ae7-48d1-a85f-a83c19faec1e.gif)](https://anthonypena97.github.io/brasil-fuerte/)
 
 #### Sample Sites:
-- https://totopena.gallery
+- https://virtual-gallery.io/
 - https://anthonypena97.github.io/brasil-fuerte/
 
 <p> ---------------------------------------- </p>
