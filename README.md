@@ -71,7 +71,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Version History
 
 - v1.2.2 is latest version
-  - - See [commit change](https://github.com/anthonypena97/brasil-fuerte/commits/main) or See [release history](https://github.com/anthonypena97/braisl-fuerte/releases)
+  - See [commit change](https://github.com/anthonypena97/threejs-boilerplate/commits/main) or See [release history](https://github.com/anthonypena97/threejs-boilerplate/releases)
 
 ## Contributing
 
